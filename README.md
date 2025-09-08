@@ -51,9 +51,9 @@
 ## 📈 My Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varha&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varha&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaman-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaman-dev&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaman-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
 </p>
 
 ---
